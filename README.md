@@ -16,25 +16,15 @@ Magic [2020, 2050]
 2027 => 2 + 0 + 2 + 7 =>11 => 1 + 1 = 2
 2028 => 2 + 0 + 2 + 8 =>12 => 1 + 2 = 3
 2029 => 2 + 0 + 2 + 9 =>13 => 1 + 3 = 4
-2030 => 2 + 0 + 3 + 0 = 5
-2031 => 2 + 0 + 3 + 1 = 6
-2032 => 2 + 0 + 3 + 2 = 7
-2033 => 2 + 0 + 3 + 3 = 8
-2034 => 2 + 0 + 3 + 4 = 9
-2035 => 2 + 0 + 3 + 5 =>10 => 1 + 0 = 1
-2036 => 2 + 0 + 3 + 6 =>11 => 1 + 1 = 2
-2037 => 2 + 0 + 3 + 7 =>12 => 1 + 2 = 3
-2038 => 2 + 0 + 3 + 8 =>13 => 1 + 3 = 4
-2039 => 2 + 0 + 3 + 9 =>14 => 1 + 4 = 5
-2040 => 2 + 0 + 4 + 0 = 6
-2041 => 2 + 0 + 4 + 1 = 7
-2042 => 2 + 0 + 4 + 2 = 8
-2043 => 2 + 0 + 4 + 3 = 9
-2044 => 2 + 0 + 4 + 4 =>10 => 1 + 0 = 1
-2045 => 2 + 0 + 4 + 5 =>11 => 1 + 1 = 2
-2046 => 2 + 0 + 4 + 6 =>12 => 1 + 2 = 3
-2047 => 2 + 0 + 4 + 7 =>13 => 1 + 3 = 4
-2048 => 2 + 0 + 4 + 8 =>14 => 1 + 4 = 5
-2049 => 2 + 0 + 4 + 9 =>15 => 1 + 5 = 6
 ...
+```
+
+```
+2020
+The 4 has a "managerial" or formal air to it. 2020 is a year of building. It's all about making the plan, gathering new data, and creating the foundation that will eventually make everything run like clockwork. This will show up in every area of life: health, finances, relationships, and spirituality.
+```
+
+```
+2021
+THE 5 YEAR is a journey of freedom, change, adventure, new experience, and learning from mistakes. ... This year will be quite an experience for you – a new experience. You now stand at the halfway point of an entire nine-year cycle of your life. The first four years are behind you.
 ```
