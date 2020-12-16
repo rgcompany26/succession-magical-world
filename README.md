@@ -19,12 +19,8 @@ Magic [2020, 2050]
 ...
 ```
 
-```
 2020
 The 4 has a "managerial" or formal air to it. 2020 is a year of building. It's all about making the plan, gathering new data, and creating the foundation that will eventually make everything run like clockwork. This will show up in every area of life: health, finances, relationships, and spirituality.
-```
 
-```
 2021
 THE 5 YEAR is a journey of freedom, change, adventure, new experience, and learning from mistakes. ... This year will be quite an experience for you – a new experience. You now stand at the halfway point of an entire nine-year cycle of your life. The first four years are behind you.
-```
