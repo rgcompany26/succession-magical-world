@@ -6,8 +6,8 @@ def _sum_digit(number):
         accumulated += int(j)
         output += str(j) if output == '' else ' + ' + str(j)
     if accumulated > 9:
-        return '= ' + output + ' =>' + _sum_digit(accumulated)
-    return '= ' + output + ' = ' + str(accumulated)
+        return str(number) + ' => ' + output + ' =>' + _sum_digit(accumulated)
+    return str(number) + ' => ' + output + ' = ' + str(accumulated)
 
 
 print('Magic [2020, 2050]')
