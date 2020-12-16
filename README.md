@@ -1,5 +1,6 @@
-# succession-magical-world
-Succession of the magical world
+# Succession magical world
+
+Python succession of the magical world
 
 Script to print nice succession
 
